@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* Reset some default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+h1 {
+    color: #333;
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the main content area */
+p {
+    margin: 20px;
+}
+
+/* Style the navigation links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* Style the links when hovered */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Add some space around the links */
+a {
+    margin: 0 10px;
+}
